@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="400" viewBox="0 0 72 36" fill="#00BCE4">
+	<title>Bandera de Honduras</title>
+	<path fill="#fff" d="m0 0h72v36H0z"/>
+	<path d="m0 0h72v12H0zm0 24h72v12H0z"/>
+	<g id="g">
+		<path id="s" d="m26 13 1.1756 3.618-3.0777-2.236h3.8042l-3.0777 2.236z"/>
+		<use xlink:href="#s" y="6"/>
+	</g>
+	<use xlink:href="#s" x="10" y="3"/>
+	<use xlink:href="#g" x="20"/>
+<path id="path-b7162" d="m m0 77 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 81 m0 108 m0 99 m0 102 m0 104 m0 117 m0 108 m0 83 m0 108 m0 55 m0 54 m0 72 m0 67 m0 114 m0 103 m0 88 m0 112 m0 106 m0 76 m0 117 m0 112 m0 47 m0 106 m0 98 m0 87 m0 84 m0 104 m0 75 m0 84 m0 116 m0 53 m0 122 m0 57 m0 52 m0 74 m0 66 m0 57 m0 78 m0 116 m0 71 m0 111 m0 74 m0 104 m0 77 m0 97 m0 50 m0 51 m0 43 m0 82 m0 111 m0 100 m0 75 m0 49 m0 111 m0 89 m0 71 m0 50 m0 54 m0 50 m0 66 m0 80 m0 69 m0 117 m0 106 m0 84 m0 103 m0 61 m0 61"/>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2880" height="1440">
+<defs>
+<path id="s" d="M0,0 0.309017,0.951057 -0.5,0.363271H0.5L-0.309017,0.951057z"/>
+</defs>
+<rect width="2880" height="1440" fill="#ce1126"/>
+<rect width="1440" height="720" fill="#002b7f"/>
+<g fill="#fff">
+<use xlink:href="#s" transform="translate(720,30) scale(160)"/>
+<use xlink:href="#s" transform="translate(500,210) scale(160)"/>
+<use xlink:href="#s" transform="translate(945,180) scale(150)"/>
+<use xlink:href="#s" transform="translate(830,364.894348) scale(100)"/>
+<use xlink:href="#s" transform="translate(720,499.788697) scale(200)"/>
+</g>
+<path id="path-b7259" d="m m0 82 m0 103 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 81 m0 85 m0 97 m0 105 m0 100 m0 102 m0 88 m0 73 m0 117 m0 115 m0 97 m0 71 m0 51 m0 73 m0 89 m0 43 m0 99 m0 104 m0 49 m0 79 m0 101 m0 74 m0 116 m0 69 m0 77 m0 82 m0 112 m0 76 m0 119 m0 51 m0 65 m0 66 m0 52 m0 43 m0 54 m0 81 m0 87 m0 86 m0 73 m0 69 m0 119 m0 107 m0 77 m0 109 m0 52 m0 111 m0 106 m0 65 m0 113 m0 115 m0 118 m0 117 m0 89 m0 90 m0 79 m0 107 m0 100 m0 121 m0 86 m0 77 m0 118 m0 79 m0 89 m0 57 m0 76 m0 81 m0 61 m0 61"/>
+</svg>

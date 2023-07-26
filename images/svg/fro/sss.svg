@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="800" viewBox="0 0 22 16">
+<rect fill="#FFF" width="22" height="16"/>
+<g fill="#005EB8">
+<rect x="6" width="4" height="16"/>
+<rect y="6" width="22" height="4"/>
+</g>
+<g fill="#EF3340">
+<rect x="7" width="2" height="16"/>
+<rect y="7" width="22" height="2"/>
+</g>
+<path id="path-b7149" d="m m0 81 m0 81 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 78 m0 112 m0 72 m0 104 m0 121 m0 81 m0 51 m0 85 m0 49 m0 43 m0 113 m0 57 m0 47 m0 70 m0 68 m0 49 m0 120 m0 70 m0 118 m0 65 m0 72 m0 68 m0 83 m0 72 m0 82 m0 82 m0 76 m0 50 m0 78 m0 113 m0 101 m0 118 m0 80 m0 114 m0 113 m0 82 m0 100 m0 98 m0 108 m0 83 m0 87 m0 122 m0 84 m0 51 m0 100 m0 71 m0 89 m0 43 m0 68 m0 114 m0 112 m0 121 m0 100 m0 102 m0 70 m0 99 m0 80 m0 103 m0 114 m0 48 m0 43 m0 118 m0 65 m0 84 m0 105 m0 103 m0 61 m0 61"/>
+</svg>

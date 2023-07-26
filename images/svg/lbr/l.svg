@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="900" viewBox="0 0 209 110" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0 0H209V110H0z" fill="#bf0a30"/>
+<path d="M0,15H209 m0,20H0" stroke="#fff" stroke-width="10"/>
+<path d="M0 0H50V55H0z" fill="#002868"/>
+<path d="M0,55H209 m0,20H0 M0,95H209" stroke="#fff" stroke-width="10"/>
+<g transform="translate(25,25) scale(15)">
+<g id="B">
+<polygon id="A" fill="#fff" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/>
+<use xlink:href="#A" transform="scale(-1,1)"/>
+</g>
+<g id="C">
+<use xlink:href="#B" transform="rotate(72)"/>
+<use xlink:href="#B" transform="rotate(216)"/>
+</g>
+<use xlink:href="#C" transform="rotate(72)"/>
+</g>
+<path id="path-b7386" d="m m0 81 m0 81 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 65 m0 77 m0 55 m0 98 m0 49 m0 51 m0 122 m0 111 m0 114 m0 82 m0 116 m0 72 m0 67 m0 98 m0 76 m0 119 m0 72 m0 116 m0 71 m0 73 m0 47 m0 73 m0 65 m0 75 m0 90 m0 47 m0 47 m0 65 m0 54 m0 121 m0 100 m0 88 m0 114 m0 82 m0 75 m0 69 m0 52 m0 53 m0 88 m0 106 m0 101 m0 47 m0 97 m0 81 m0 122 m0 114 m0 53 m0 98 m0 115 m0 107 m0 117 m0 118 m0 71 m0 79 m0 81 m0 90 m0 109 m0 86 m0 53 m0 88 m0 107 m0 113 m0 73 m0 119 m0 115 m0 115 m0 103 m0 61 m0 61"/>
+</svg>
